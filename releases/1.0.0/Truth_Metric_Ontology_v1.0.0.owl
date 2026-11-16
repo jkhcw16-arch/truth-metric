@@ -109,4 +109,4 @@
  <rdf:Description rdf:about="https://w3id.org/truth-metric#TruthAssessment"><tmo:validationRule xml:lang="en">truthScore must be in [-1,1] when present.</tmo:validationRule><tmo:validationRule xml:lang="en">semanticMatch, evidenceQuality, and contradictionScore must be in [0,1] when present.</tmo:validationRule><tmo:validationRule xml:lang="en">Normative or legal classification must remain separate from truth correspondence.</tmo:validationRule></rdf:Description>
  <rdf:Description rdf:about="https://w3id.org/truth-metric#Proposition"><tmo:validationRule xml:lang="en">A proposition must not be inferred true solely from repeated assertions.</tmo:validationRule></rdf:Description>
  <rdf:Description rdf:about="https://w3id.org/truth-metric#Finding"><tmo:validationRule xml:lang="en">A completed finding must preserve material limitations and unresolved facts.</tmo:validationRule></rdf:Description>
-</rdf:RDF>
+</rdf:RDF+xml>
